@@ -13,7 +13,7 @@ const subscriberSchema = mongoose.Schema({
     }
 
 
-})
+},  {timestamps: true})
 
 
 
